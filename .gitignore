@@ -5,6 +5,11 @@
 ### Java ###
 # Compiled class file
 *.class
+*.classpath
+*.settings
+*.springBeans
+*.project
+
 
 # Log file
 *.log
