@@ -8,18 +8,18 @@
 │  │  ├─ DefaultConfig.js
 │  │  └─ MenuImportManager.js
 │  ├─ libs
-│  ├─ components
+│  ├─ modules
 │  │  ├─ header
+│  │  │  └─ components
+│  │  │  └─ header1
+│  │  │     └─ header1.svelt
 │  │  ├─ nav
+│  │  │  └─ ...
 │  │  ├─ main
+│  │  │  └─ components
 │  │  │  ├─ Category1
-│  │  │  │  └─ pages
-│  │  │  │     ├─ Category1.svelt
-│  │  │  │     └─ Category1.js
-│  │  │  ├─ Category
-│  │  │  │  └─ ...
-│  │  │  ├─ Category3
-│  │  │  ├─ Category
+│  │  │  │  ├─ Category1.svelt
+│  │  │  │  └─ Category1.js
 │  │  │  └─ ...
 │  │  └─ footer
 │  ├─ theme
